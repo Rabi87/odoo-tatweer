@@ -6,7 +6,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c14be56-22d3-40da-aadd-1048193843ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/addons/account/i18n/ar_SY.po" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/addons/purchase/i18n/ar_SY.po" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/amount_in_words_knk/i18n/ar_SY.po" afterDir="false" />
@@ -58,8 +57,6 @@
       <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/wizard/PM_wizard.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/wizard/PM_wizard_view.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/wizard/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/odoo" beforeDir="false" afterPath="$PROJECT_DIR$/odoo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/odoo/addons/account/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/account/models/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/odoo/addons/account/models/company.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/account/models/company.py" afterDir="false" />
@@ -365,7 +362,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="27" />
     <option name="width" value="940" />
     <option name="height" value="1053" />
@@ -378,109 +375,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
-              <item name="employee_vehicle_request" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
-              <item name="employee_vehicle_request" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
-              <item name="employee_vehicle_request" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
-              <item name="employee_vehicle_request" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
-              <item name="employee_vehicle_request" type="462c0819:PsiDirectoryNode" />
-              <item name="wizard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="rabi_addons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="rabi_addons" type="462c0819:PsiDirectoryNode" />
-              <item name="rabi_purchase_requestion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="rabi_addons" type="462c0819:PsiDirectoryNode" />
-              <item name="rabi_purchase_requestion" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="rabi_addons" type="462c0819:PsiDirectoryNode" />
-              <item name="rabi_purchase_requestion" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
-              <item name="odoo" type="462c0819:PsiDirectoryNode" />
-              <item name="rabi_addons" type="462c0819:PsiDirectoryNode" />
-              <item name="rabi_purchase_requestion" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -616,7 +511,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1880" height="1053" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49830124" visible="true" weight="0.14609164" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49830124" visible="true" weight="0.33187774" />
       <window_info id="Structure" order="1" sideWeight="0.50169873" side_tool="true" weight="0.17849346" />
       <window_info id="Favorites" order="2" sideWeight="0.50054765" side_tool="true" weight="0.33245382" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -627,14 +522,14 @@
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32858709" />
       <window_info anchor="bottom" id="Tail" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295711" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31602708" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31602708" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.65826946" />
       <window_info anchor="bottom" id="Inspection Results" order="11" visible="true" weight="0.32968238" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="154" y="492" width="1571" height="311" id="Run" order="3" side_tool="true" weight="0.18340611" />
+      <window_info anchor="right" x="154" y="492" width="1571" height="311" id="Run" order="3" side_tool="true" visible="true" weight="0.18340611" />
     </layout>
   </component>
   <component name="UnknownFeatures">
