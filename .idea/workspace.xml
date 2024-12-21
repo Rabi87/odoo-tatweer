@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_request/i18n/ar_SY.po" />
+    <bookmark url="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/employee_fleet.py" line="316" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c14be56-22d3-40da-aadd-1048193843ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/addons/account/i18n/ar_SY.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/addons/purchase/i18n/ar_SY.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/amount_in_words_knk/i18n/ar_SY.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/controllers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/controllers/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/demo/demo_service_types.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/i18n/ar_SY.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/account_inhirit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/manage_fleet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/manpower_fleet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/service_fleet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/service_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/report/ir_actions_report.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/report/pettycash_report.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/static/description/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/static/src/css/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/static/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/account_inhirit_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/corn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/dashboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/manpower_fleet_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/service_types_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/PTC_wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/PTC_wizard_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/bill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/bill_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_IN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_IN_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_OUT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_OUT_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/manpowerNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/manpowerNum_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_check_list/static/src/js/confirm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_check_list/static/src/xml/template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_request/i18n/ar_SY.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/i18n/ar_SY.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/discuss_temp_rabi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/org_chart_setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/res_config_settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/res_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/static/description/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/static/description/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/cron.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/discuss_xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/org_chart_setting_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/res_config_settings_views.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/res_users_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/wizard/PM_wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/wizard/PM_wizard_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/wizard/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo" beforeDir="false" afterPath="$PROJECT_DIR$/odoo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/account/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/account/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/account/models/company.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/account/models/company.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/account/models/res_config_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/account/models/res_config_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/account/static/src/css/account.css" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/account/static/src/css/account.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/account/static/src/css/account_bank_and_cash.css" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/account/static/src/css/account_bank_and_cash.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/account/views/account_menuitem.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/account/views/account_menuitem.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/account/views/account_move_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/account/views/account_move_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/account_payment/wizards/payment_link_wizard.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/account_payment/wizards/payment_link_wizard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/auth_signup/tests/test_auth_signup.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/auth_signup/tests/test_auth_signup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/auth_signup/tests/test_reset_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/auth_signup/tests/test_reset_password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/base_import_module/models/ir_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/base_import_module/models/ir_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/base_import_module/tests/test_import_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/base_import_module/tests/test_import_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/board/static/src/board_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/board/static/src/board_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/crm/models/crm_lead.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/crm/models/crm_lead.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/crm/tests/test_crm_lead_notification.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/crm/tests/test_crm_lead_notification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/event_sale/models/sale_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/event_sale/models/sale_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/event_sms/tests/test_sms_schedule.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/event_sms/tests/test_sms_schedule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/hr_holidays/models/hr_leave.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/hr_holidays/models/hr_leave.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/hr_holidays/models/hr_leave_allocation.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/hr_holidays/models/hr_leave_allocation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/http_routing/models/ir_http.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/http_routing/models/ir_http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/im_livechat/tests/test_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/im_livechat/tests/test_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_bg/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_bg/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_cn_city/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_cn_city/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_co_pos/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_co_pos/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_de_skr03/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_de_skr03/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_de_skr04/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_de_skr04/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_fr_fec/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_fr_fec/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_fr_pos_cert/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_fr_pos_cert/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_id_efaktur/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_id_efaktur/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_in_edi/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_in_edi/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_in_edi_ewaybill/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_in_edi_ewaybill/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_in_pos/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_in_pos/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_in_purchase/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_in_purchase/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_in_purchase_stock/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_in_purchase_stock/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_in_sale/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_in_sale/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_in_sale_stock/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_in_sale_stock/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_in_stock/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_in_stock/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_it_edi/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_it_edi/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_it_stock_ddt/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_it_stock_ddt/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_mx_hr/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_mx_hr/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_sa_edi/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_sa_edi/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/l10n_sa_edi_pos/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/l10n_sa_edi_pos/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/mail/controllers/bus.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/mail/controllers/bus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/mail/controllers/mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/mail/controllers/mail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/mail/models/ir_attachment.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/mail/models/ir_attachment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/mail/models/mail_thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/mail/models/mail_thread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/onboarding/models/onboarding_progress.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/onboarding/models/onboarding_progress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/onboarding/tests/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/onboarding/tests/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/onboarding/tests/test_onboarding.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/onboarding/tests/test_onboarding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/payment/controllers/portal.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/payment/controllers/portal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/payment/controllers/post_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/payment/controllers/post_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/payment_paypal/controllers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/payment_paypal/controllers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/point_of_sale/tests/test_frontend.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/point_of_sale/tests/test_frontend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/point_of_sale/tests/test_js.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/point_of_sale/tests/test_js.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/portal/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/portal/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/portal/views/portal_templates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/portal/views/portal_templates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/portal_rating/views/rating_templates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/portal_rating/views/rating_templates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/pos_hr/tests/test_frontend.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/pos_hr/tests/test_frontend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/purchase/views/purchase_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/purchase/views/purchase_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/purchase_requisition/views/purchase_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/purchase_requisition/views/purchase_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/purchase_requisition/wizard/purchase_requisition_create_alternative.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/purchase_requisition/wizard/purchase_requisition_create_alternative.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/sale/models/res_company.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/sale/models/res_company.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/sale/wizard/payment_link_wizard.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/sale/wizard/payment_link_wizard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/sms/models/sms_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/sms/models/sms_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/survey/controllers/survey_session_manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/survey/controllers/survey_session_manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/survey/models/survey_question.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/survey/models/survey_question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/survey/models/survey_survey.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/survey/models/survey_survey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/test_mail/models/test_mail_corner_case_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/test_mail/models/test_mail_corner_case_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/test_mail/models/test_mail_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/test_mail/models/test_mail_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/test_mail/tests/test_mail_multicompany.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/test_mail/tests/test_mail_multicompany.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/test_mail_full/tests/test_portal.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/test_mail_full/tests/test_portal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/test_website/tests/test_redirect.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/test_website/tests/test_redirect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/web/controllers/report.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/web/controllers/report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website/controllers/backend.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website/controllers/backend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website/controllers/form.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website/controllers/form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website/controllers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website/controllers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website/models/ir_actions_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website/models/ir_actions_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website/models/website.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website/models/website.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website/models/website_menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website/models/website_menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website/models/website_rewrite.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website/models/website_rewrite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website/tests/test_lang_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website/tests/test_lang_url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website/tests/test_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website/tests/test_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website/tests/test_performance.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website/tests/test_performance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website/tests/test_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website/tests/test_views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_crm_partner_assign/controllers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_crm_partner_assign/controllers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_customer/controllers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_customer/controllers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_event/models/event_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_event/models/event_event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_forum/views/website_forum.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_forum/views/website_forum.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_google_map/controllers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_google_map/controllers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_links/tests/test_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_links/tests/test_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_livechat/controllers/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_livechat/controllers/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_livechat/tests/test_livechat_basic_flow.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_livechat/tests/test_livechat_basic_flow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_membership/controllers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_membership/controllers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_partner/controllers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_partner/controllers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_profile/controllers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_profile/controllers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_sale/controllers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_sale/controllers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_sale/models/res_config_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_sale/models/res_config_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_slides/controllers/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_slides/controllers/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/addons/website_slides/views/website_slides_templates_utils.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/addons/website_slides/views/website_slides_templates_utils.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/odoo/addons/base/models/ir_actions_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/odoo/addons/base/models/ir_actions_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/odoo/addons/base/models/ir_qweb.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/odoo/addons/base/models/ir_qweb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/odoo/addons/base/tests/test_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/odoo/addons/base/tests/test_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/odoo/http.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/odoo/http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/odoo/modules/module.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/odoo/modules/module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/odoo/tests/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/odoo/tests/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/odoo/tools/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/odoo/tools/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/odoo/requirements.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TATWEER" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/purchase_requisition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="374" column="13" selection-start-line="374" selection-start-column="13" selection-end-line="374" selection-end-column="13" />
+              <folding>
+                <element signature="e#2425#2992#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/res_users.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="16" column="34" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/res_config_settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/res_config_settings_views.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1100">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/purchase_requisition.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5368">
+              <caret line="244" column="70" selection-start-line="244" selection-start-column="70" selection-end-line="244" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>returned_date</find>
+      <find>curr</find>
+      <find>_compute_total</find>
+      <find>name</find>
+      <find>service_id</find>
+      <find>pettycash.account</find>
+      <find>model_employee_vehicle_request</find>
+      <find>action_employee_fleet</find>
+      <find>action_manage_manpower</find>
+      <find>action_service_types</find>
+      <find>action_manage_fleet</find>
+      <find>Vehicle Request</find>
+      <find>action_manage_service</find>
+      <find>vehicle_move</find>
+      <find>service_fleet</find>
+      <find>project_dashboard</find>
+      <find>date</find>
+      <find>action_department_one</find>
+      <find>current_hours_working</find>
+      <find>fleet</find>
+      <find>user_manager_id</find>
+      <find>service_manager</find>
+      <find>action_department_one_app</find>
+      <find>_default_service</find>
+      <find>self.env.ref</find>
+      <find>ir.config</find>
+      <find>388</find>
+      <find>incoterm_id</find>
+      <find>service_mana</find>
+      <find>service_manager = f</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>طلب خاص</replace>
+      <replace>'Services')]}&quot;</replace>
+      <replace>Man Power</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/odoo/addons/purchase/report</dir>
+      <dir>$PROJECT_DIR$/odoo/addons/web/static/src/scss</dir>
+      <dir>$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_request</dir>
+      <dir>$PROJECT_DIR$/odoo/addons/purchase/static</dir>
+      <dir>$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models</dir>
+      <dir>$PROJECT_DIR$/odoo/coustom_addons/restrict_logins</dir>
+      <dir>$PROJECT_DIR$/odoo/rabi_addons/rabi_check_list</dir>
+      <dir>$PROJECT_DIR$/odoo/coustom_addons/signature</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/odoo/rabi_addons/odoo_theme_worthy-master</dir>
+      <dir>$PROJECT_DIR$/odoo/addons/web</dir>
+      <dir>$PROJECT_DIR$/odoo/addons/purchase/models</dir>
+      <dir>$PROJECT_DIR$/odoo/rabi_addons/login_using_qr</dir>
+      <dir>$PROJECT_DIR$/odoo/addons/fleet/views</dir>
+      <dir>$PROJECT_DIR$/odoo/addons/account/views</dir>
+      <dir>$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models</dir>
+      <dir>$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard</dir>
+      <dir>$PROJECT_DIR$/odoo/addons/account</dir>
+      <dir>$PROJECT_DIR$/odoo/addons/purchase_requisition</dir>
+      <dir>$PROJECT_DIR$/odoo/rabi_addons/rabi_double_approvals</dir>
+      <dir>$PROJECT_DIR$/odoo/rabi_addons</dir>
+      <dir>$PROJECT_DIR$/odoo/coustom_addons</dir>
+      <dir>$PROJECT_DIR$/odoo/addons/purchase</dir>
+      <dir>$PROJECT_DIR$/odoo/addons/purchase_price_diff</dir>
+      <dir>$PROJECT_DIR$/odoo/addons</dir>
+      <dir>$PROJECT_DIR$/odoo/addons/sale</dir>
+      <dir>$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request</dir>
+      <dir>$PROJECT_DIR$/odoo/rabi_addons/project_dashboard_odoo</dir>
+      <dir>$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion</dir>
+      <dir>$PROJECT_DIR$/odoo</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/odoo" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/conf/odoo.conf" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_double_approvals/views/views.xml" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/__manifest__.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/auto_backup/models/db_backup.py" />
+        <option value="$PROJECT_DIR$/odoo/addons/account/security/ir.model.access.csv" />
+        <option value="$PROJECT_DIR$/odoo/addons/account/models/account_pettycash.py" />
+        <option value="$PROJECT_DIR$/odoo/addons/account/report/pettycash_report.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons/account/report/ir_actions_report.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons/account/i18n/ar_SY.po" />
+        <option value="$PROJECT_DIR$/odoo/addons/account/models/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_request/views/requester.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/PTC_wizard.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/om_account_budget/views/account_budget_views.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons/account/__manifest__.py" />
+        <option value="$PROJECT_DIR$/odoo/addons/account/views/account_menuitem.xml" />
+        <option value="$PROJECT_DIR$/odoo/addons/account/views/account_move_views.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/report/pettycash_report.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/report/ir_actions_report.xml" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_double_approvals/models/models.py" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/security/security_access.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/manpowerNum_view.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/manpowerNum.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/account_inhirit.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/manage_fleet.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/service_fleet.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/manpower_fleet.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/i18n/ar_SY.po" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/rabi.purchase.requestion_inherit.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/equestion_inherit.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/__init__.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_IN_view.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_IN.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_OUT_view.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/manpower_fleet_view.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/__manifest__.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/account_inhirit_view.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/dashboard.xml" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/project_dashboard_odoo/static/src/xml/dashboard.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/employee_fleet_view.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/employee_fleet.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_OUT.py" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/security/security.xml" />
+        <option value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/security/ir.model.access.csv" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/res_users.py" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/res_users_view.xml" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/purchase_requisition.xml" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/res_config_settings_views.xml" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/res_config_settings.py" />
+        <option value="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/purchase_requisition.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="940" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
+              <item name="employee_vehicle_request" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
+              <item name="employee_vehicle_request" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
+              <item name="employee_vehicle_request" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
+              <item name="employee_vehicle_request" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="coustom_addons" type="462c0819:PsiDirectoryNode" />
+              <item name="employee_vehicle_request" type="462c0819:PsiDirectoryNode" />
+              <item name="wizard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="rabi_addons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="rabi_addons" type="462c0819:PsiDirectoryNode" />
+              <item name="rabi_purchase_requestion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="rabi_addons" type="462c0819:PsiDirectoryNode" />
+              <item name="rabi_purchase_requestion" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="rabi_addons" type="462c0819:PsiDirectoryNode" />
+              <item name="rabi_purchase_requestion" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TATWEER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TATWEER" type="462c0819:PsiDirectoryNode" />
+              <item name="odoo" type="462c0819:PsiDirectoryNode" />
+              <item name="rabi_addons" type="462c0819:PsiDirectoryNode" />
+              <item name="rabi_purchase_requestion" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/static/description" />
+      <recent name="$PROJECT_DIR$/odoo/rabi_addons/rabi_check_list/static/src/js" />
+      <recent name="$PROJECT_DIR$/odoo/rabi_addons/rabi_check_list/static/src/xml" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views" />
+      <recent name="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard" />
+      <recent name="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/report" />
+      <recent name="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models" />
+      <recent name="$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.tatweer">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="company" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odoo/odoo-bin" />
+      <option name="PARAMETERS" value="-c $PROJECT_DIR$/conf/odoo.conf" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="employee_fleet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="company" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/employee_fleet.py" />
+      <option name="PARAMETERS" value="-c $PROJECT_DIR$/conf/odoo.conf" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tatweer" type="PythonConfigurationType" factoryName="Python">
+      <module name="company" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odoo/odoo-bin" />
+      <option name="PARAMETERS" value="-c $PROJECT_DIR$/conf/odoo.conf -d from_server_backup -u rabi_purchase_requestion" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tatweer" />
+      <item itemvalue="Python.employee_fleet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.employee_fleet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c14be56-22d3-40da-aadd-1048193843ad" name="Default Changelist" comment="" />
+      <created>1708420438139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708420438139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1880" height="1053" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49830124" visible="true" weight="0.14609164" />
+      <window_info id="Structure" order="1" sideWeight="0.50169873" side_tool="true" weight="0.17849346" />
+      <window_info id="Favorites" order="2" sideWeight="0.50054765" side_tool="true" weight="0.33245382" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3274918" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.033860046" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32858709" />
+      <window_info anchor="bottom" id="Tail" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295711" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31602708" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.65826946" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" visible="true" weight="0.32968238" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="154" y="492" width="1571" height="311" id="Run" order="3" side_tool="true" weight="0.18340611" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/manpowerNum_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/manpowerNum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#24#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/odoo/fields.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/odoo.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/PTC_wizard.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#1#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/equestion_inherit.py" />
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_IN_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/security/ir.model.access.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_IN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/account_inhirit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/corn.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/README.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/manpower_fleet_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11039">
+          <caret line="983" lean-forward="true" selection-start-line="929" selection-start-column="8" selection-end-line="983" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/service_types.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/service_fleet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/manpower_fleet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/account_inhirit_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+          <folding>
+            <element signature="n#record#0;n#odoo#0;n#!!top" />
+            <element signature="n#record#1;n#odoo#0;n#!!top" />
+            <element signature="n#record#2;n#odoo#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/service_types_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/report/ir_actions_report.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/report/pettycash_report.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/project_dashboard_odoo/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/dashboard.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/project_dashboard_odoo/static/src/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/project_dashboard_odoo/views/dashboard_views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/project_dashboard_odoo/models/project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-945">
+          <folding>
+            <element signature="e#908#921#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/project_dashboard_odoo/static/description/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/project_dashboard_odoo/static/src/js/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/project_dashboard_odoo/static/src/xml/dashboard.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="n#t#1;n#div#0;n#t#1;n#templates#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#t#1;n#templates#0;n#!!top" />
+            <element signature="n#t#2;n#div#0;n#t#1;n#templates#0;n#!!top" />
+            <element signature="n#t#3;n#div#0;n#t#1;n#templates#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#t#1;n#templates#0;n#!!top" />
+            <element signature="n#t#2;n#templates#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/project_dashboard_odoo/controllers/project_dashboard_odoo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2250" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/manage_fleet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/odoo/modules/loading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/security/security_access.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/views/employee_fleet_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5522">
+          <caret line="316" column="46" selection-start-line="316" selection-start-column="46" selection-end-line="316" selection-end-column="46" />
+          <folding>
+            <element signature="e#91#350#0" />
+            <element signature="e#358#1121#0" />
+            <element signature="e#1127#2071#0" />
+            <element signature="e#2077#2624#0" />
+            <element signature="e#2630#3031#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/models/employee_fleet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_OUT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/stock_picking_view.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/project_location.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/project_locations_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/res_users_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/wizard/fuel_OUT_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/security/security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/coustom_addons/employee_vehicle_request/security/ir.model.access.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="114" selection-start-line="19" selection-start-column="114" selection-end-line="19" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/purchase_requisition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="374" column="13" selection-start-line="374" selection-start-column="13" selection-end-line="374" selection-end-column="13" />
+          <folding>
+            <element signature="e#2425#2992#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/res_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="34" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/models/res_config_settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/res_config_settings_views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo/rabi_addons/rabi_purchase_requestion/views/purchase_requisition.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5368">
+          <caret line="244" column="70" selection-start-line="244" selection-start-column="70" selection-end-line="244" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

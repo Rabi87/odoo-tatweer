@@ -1,0 +1,33 @@
+
+
+
+
+
+
+master   qrjc-teej-3ca3
+
+
+/////////////////////////////////////////////
+
+
+RTL problem :
+*************
+npm install -g less
+
+npm install -g less-plugin-clean-css
+
+npm install -g rtlcss
+
+npm install -g rtl-detect
+
+npm install -g postcss-ltr-rtl-detect
+
+///////////////////////////////////////////////
+
+Arabic font : Nati arabic font
+
+//////////////////////////////////////////////
+
+
+
+https://www.youtube.com/watch?v=r6YLxj3H5xc
